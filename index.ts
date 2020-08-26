@@ -2,6 +2,8 @@ import type { ComputedRef } from "vue";
 import { computed } from "vue";
 import { mapActions, mapGetters, mapMutations, useStore } from "vuex";
 
+export * from "./types";
+
 export type UseActions<T> = { readonly [Key in keyof T]: T[Key] };
 export type UseGetters<T> = { readonly [Key in keyof T]: ComputedRef<T[Key]> };
 export type UseMutations<T> = { readonly [Key in keyof T]: T[Key] };

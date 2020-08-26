@@ -1,6 +1,7 @@
 {
 	"name": "@latte-ui/vuex-composables",
 	"description": "A set of utility composables for Vuex stores and modules.",
+	"license": "MIT",
 	"version": "2.0.0",
 	"author": {
 		"email": "bas@mili.us",

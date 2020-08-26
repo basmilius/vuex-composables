@@ -1,0 +1,9 @@
+{
+	"name": "@latte-ui/vuex-composables",
+	"description": "A set of utility composables for Vuex stores and modules.",
+	"version": "2.0.0",
+	"dependencies": {
+		"vue": "^3.0.0-rc.8",
+		"vuex": "^4.0.0-beta.4"
+	}
+}

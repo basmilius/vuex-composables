@@ -9,7 +9,7 @@
 		"url": "https://bas.dev"
 	},
 	"dependencies": {
-		"vue": "^3.0.0-rc.11",
+		"vue": "^3.0.0-rc.12",
 		"vuex": "^4.0.0-beta.4"
 	}
 }

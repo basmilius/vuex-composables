@@ -2,14 +2,14 @@
 	"name": "@latte-ui/vuex-composables",
 	"description": "A set of utility composables for Vuex stores and modules.",
 	"license": "MIT",
-	"version": "2.0.5",
+	"version": "2.0.6",
 	"author": {
 		"email": "bas@mili.us",
 		"name": "Bas Milius",
 		"url": "https://bas.dev"
 	},
 	"dependencies": {
-		"vue": "^3.0.0-rc.12",
+		"vue": "^3.0.0-rc.13",
 		"vuex": "^4.0.0-beta.4"
 	}
 }
